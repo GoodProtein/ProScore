@@ -1,5 +1,16 @@
+"""
+Author: Branden Lee
+Date: 2020-01-24 to 2020-03-06
+Github: https://github.com/GoodProtein/ProScore
+
+PLAGIARISM NOTICE
+This project was created for ECS 129 course at UC Davis
+and is publically hosted in a github repository. Other students
+may find this repository and attempt to copy all or portions of this project.
+"""
+
 '''
-compares the local scores of two proteins
+@brief compares the local scores of two proteins
 '''
 
 import math
