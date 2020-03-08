@@ -7,17 +7,17 @@ https://web.cs.ucdavis.edu/~koehl/Teaching/ECS129/projects.html
 - [X] Parse .CRD file atom properties into an efficient data structure
 - [X] Implement mathematical computation for total protein internal energy
 - [X] Perform protein structure comparison
-- [ ] `20%` Report - Introduction
-  - [ ] `20%` Presentation of the problem
-  - [ ] `0%` Previous work on the topic
-- [ ] `0%` Report - Methods
-  - [ ] `0%` Description of your algorithm
-  - [ ] `0%` Brief analysis
-- [ ] `40%` Report - Results
-  - [ ] `40%` Presentation
-  - [ ] `40%` Analysis
-- [ ] `0%` Report - Discussion
-- [ ] `30%` Report - Bibliography
+- [ ] `50%` Report - Introduction
+  - [ ] `50%` Presentation of the problem
+  - [ ] `50%` Previous work on the topic
+- [ ] `90%` Report - Methods
+  - [ ] `90%` Description of your algorithm
+  - [ ] `90%` Brief analysis
+- [ ] `90%` Report - Results
+  - [ ] `90%` Presentation
+  - [ ] `90%` Analysis
+- [ ] `50%` Report - Discussion
+- [ ] `60%` Report - Bibliography
 
 # Folder Organization
 * `/CRD_File_py_src/` protein internal energy calculation written in python using the professor provided CRD files containing pre-fetched atom variables
